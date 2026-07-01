@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "goalfydata-mcp": {
+      "url": "https://mcp.goalfydata.ai/mcp",
+      "transport": "streamable_http",
+      "bearer_token_env_var": "GOALFY_UDS_API_TOKEN"
+    }
+  }
+}

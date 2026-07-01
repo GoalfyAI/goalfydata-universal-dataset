@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "goalfydata-mcp": {
+      "type": "streamable-http",
+      "url": "https://mcp.goalfydata.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${GOALFY_UDS_API_TOKEN}"
+      }
+    }
+  }
+}
